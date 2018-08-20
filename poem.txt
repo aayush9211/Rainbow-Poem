@@ -5,6 +5,7 @@ orange
 Green
 blue 
 red
-Yellow
+Indigo
 unicorn
+ponies
 ponies are unicorns without horns
